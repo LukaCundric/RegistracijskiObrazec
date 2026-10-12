@@ -8,12 +8,12 @@ Aplikacija omogoča uporabniku, da izpolni registracijski obrazec in si ogleda p
 
 ## Funkcionalnosti
 
-- ScrollView, da se po obrazcu lahko drsi tudi na manjših zaslonih
-- TextView z naslovom »Registration form«
-- EditText polja za Username, Full name, Country, Email, Phone number in Password
-- RadioGroup z izbiro spola (Male / Female)
-- CheckBox za strinjanje s pogoji uporabe
-- Button »Create account«, ki prikaže AlertDialog s povzetkom vnesenih podatkov
+- **ScrollView**, da se po obrazcu lahko drsi tudi na manjših zaslonih
+- **TextView** z naslovom »Registration form«
+- **EditText** polja za Username, Full name, Country, Email, Phone number in Password
+- **RadioGroup** z izbiro spola (Male / Female)
+- **CheckBox** za strinjanje s pogoji uporabe
+- **Button** »Create account«, ki prikaže **AlertDialog** s povzetkom vnesenih podatkov
 
 ## Uporabljene tehnologije
 
